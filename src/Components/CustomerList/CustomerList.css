@@ -1,0 +1,15 @@
+.ticket {
+  margin-left: 800px;
+}
+.rejected {
+  background-color: red !important;
+}
+.new {
+  background-color: lightblue !important;
+}
+.accepted {
+  background-color: green !important;
+}
+.for {
+  margin-left: 800px !important;
+}

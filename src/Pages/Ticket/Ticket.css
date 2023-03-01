@@ -1,0 +1,19 @@
+.sear {
+  width: 300px !important;
+  display: inline-block !important;
+}
+.new {
+  background-color: lightblue !important;
+}
+.assigned {
+  background-color: yellowgreen !important;
+}
+.progress {
+  background-color: red !important;
+}
+.resolved {
+  background-color: green !important;
+}
+.p-sidebar-header {
+  display: none !important;
+}

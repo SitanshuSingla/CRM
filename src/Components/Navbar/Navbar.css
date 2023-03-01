@@ -1,0 +1,8 @@
+.btn2 {
+}
+
+.out {
+  width: 100%;
+  display: flex !important;
+  justify-content: right !important;
+}

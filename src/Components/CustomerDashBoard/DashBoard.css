@@ -1,0 +1,41 @@
+.a1 {
+  margin-top: 40px;
+  width: 150px !important;
+  background-color: black;
+  height: 120px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+}
+.a2 {
+  margin-top: 40px;
+  width: 150px !important;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+}
+.a3 {
+  margin-top: 40px;
+  width: 150px !important;
+  background-color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+}
+.a4 {
+  margin-top: 40px;
+  width: 150px !important;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.r {
+  display: flex;
+  justify-content: center;
+}

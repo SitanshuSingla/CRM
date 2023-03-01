@@ -1,0 +1,51 @@
+.status-a1 {
+  margin-top: 40px;
+  width: 200px;
+  background-color: black;
+  height: 120px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.status-a2 {
+  margin-top: 40px;
+  width: 200px;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.status-a3 {
+  margin-top: 40px;
+  width: 200px;
+  background-color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.status-a4 {
+  margin-top: 40px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+.status-a5 {
+  margin-top: 40px;
+  width: 200px;
+  background-color: darkgrey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.r {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
